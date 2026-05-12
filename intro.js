@@ -1,2 +1,7 @@
 "use strict";
-console.log("Hello, World!");
+let hero;
+function getHero() {
+    return "Thor";
+}
+hero = getHero();
+console.log(hero);

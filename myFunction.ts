@@ -1,0 +1,1 @@
+// undefined can also be written as void 0
